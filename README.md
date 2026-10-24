@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Naveed Khan 👋
 
-<!--
-**MRNEEVE/MRNEEVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🎓 **BS Software Engineering** student.
+- 🚀 **MERN Stack & Full-Stack Web Developer** passionate about building scalable web applications.
+- 💻 Tech Stack: **MongoDB, Express.js, React.js, Node.js, PHP, Laravel, MySQL, C++, Python**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-naveed-khan-171027314) | [Portfolio](https://muhammad-naveed-khan.netlify.app/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
+- **Backend:** Node.js, Express.js, PHP, Laravel
+- **Databases:** MongoDB, MySQL
+- **Version Control & Tools:** Git, GitHub, VS Code, Figma, Postman
+
+---
+
+### 📊 GitHub Stats
+![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRNEEVE&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRNEEVE&layout=compact&theme=radical)
